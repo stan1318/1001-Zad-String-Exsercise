@@ -1,0 +1,6 @@
+C:\Games\VS 2013\A lot of Projects\1001 Zad String Exsercise\1001 Zad String Exsercise\bin\Debug\1001 Zad String Exsercise.exe.config
+C:\Games\VS 2013\A lot of Projects\1001 Zad String Exsercise\1001 Zad String Exsercise\bin\Debug\1001 Zad String Exsercise.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad String Exsercise\1001 Zad String Exsercise\bin\Debug\1001 Zad String Exsercise.pdb
+C:\Games\VS 2013\A lot of Projects\1001 Zad String Exsercise\1001 Zad String Exsercise\obj\Debug\1001 Zad String Exsercise.csprojResolveAssemblyReference.cache
+C:\Games\VS 2013\A lot of Projects\1001 Zad String Exsercise\1001 Zad String Exsercise\obj\Debug\1001 Zad String Exsercise.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad String Exsercise\1001 Zad String Exsercise\obj\Debug\1001 Zad String Exsercise.pdb
